@@ -1,5 +1,5 @@
 __author__ = "Paulo Aguilar"
-__license__ = "GPL"
+__license__ = "MIT"
 __version__ = "1.0"
 __email__ = "paguilar8@utmachala.edu.ec"
 __status__ = "Development"
